@@ -1,2 +1,3 @@
 # Projeto-Soma
-Projeto simples de calculadora de soma
+Projeto de calculadora de adição simples
+Simple Addition Calculator Project
